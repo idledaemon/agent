@@ -7,7 +7,7 @@ require (
 	github.com/buildkite/bintest v0.0.0-20180227222132-85c293267aed
 	github.com/buildkite/interpolate v0.0.0-20171114090218-3a807e47135c
 	github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000
-	github.com/buildkite/yaml v2.1.0+incompatible
+	github.com/buildkite/yaml v0.0.0-20181016232759-0caa5f0796e3
 	github.com/davecgh/go-spew v1.1.0 // indirect
 	github.com/denisbrodbeck/machineid v1.0.0
 	github.com/fortytw2/leaktest v1.2.0 // indirect
@@ -43,5 +43,4 @@ require (
 	google.golang.org/grpc v0.0.0-20170216003643-d0c32ee6a441 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/vmihailenco/msgpack.v2 v2.9.1
-	gopkg.in/yaml.v2 v2.2.1 // indirect
 )
